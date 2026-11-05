@@ -1,0 +1,24 @@
+# Python
+backend/.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Secrets
+backend/.env
+.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Local Codex artifacts
+outputs/
+work/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
